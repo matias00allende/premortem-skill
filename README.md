@@ -48,6 +48,11 @@ existen skills dedicadas (`auditar`, `review` en
 El premortem es sobre viabilidad y riesgo estratégico/operativo del plan como
 un todo, no sobre calidad del código o configuración.
 
+## Autor
+
+Matías Allende
+[LinkedIn](https://www.linkedin.com/in/matiasallende/) · matias.allende.contreras@gmail.com
+
 ## Licencia
 
 MIT. Ver [LICENSE](LICENSE).
